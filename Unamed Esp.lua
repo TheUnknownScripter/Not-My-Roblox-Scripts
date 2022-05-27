@@ -2,7 +2,7 @@ game:GetService("StarterGui"):SetCore("SendNotification", {
 	Title = "Esp",
 	Text = "ESP Was Created By ic3w0lf",
 	Duration = 12,
-	Icon = "rbxassetid://9233344619", --Has to be a Image not decal
+	Icon = "rbxassetid://9233344619",
 })
 
 assert(Drawing, "exploit not supported")
